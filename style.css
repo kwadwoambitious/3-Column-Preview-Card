@@ -43,6 +43,7 @@ button{
     background-color: hsl(0, 0%, 95%);
     font-weight: bold;
     cursor: pointer;
+    border: white solid 1px;
 }
 #card1 button{
     color: hsl(31, 77%, 52%);
@@ -50,7 +51,6 @@ button{
 #card1 button:hover{
     color: white;
     background-color: hsl(31, 77%, 52%);
-    border: white solid 1px;
 }
 #card2 button{
     color: hsl(184, 100%, 22%);
