@@ -44,6 +44,7 @@ button{
     font-weight: bold;
     cursor: pointer;
     border: white solid 1px;
+    transition: 0.5s ease;
 }
 #card1 button{
     color: hsl(31, 77%, 52%);
